@@ -18,8 +18,8 @@ python3 main.py
 ```
 
 ## Tinkering Settings
- - difficulty can be set by changing the `MOVES_DEPTH` value in settings.py ; higher value means increased difficulty
- - piece colors can be changed by editing 
+ - difficulty can be set by changing the `MOVES_DEPTH` value in settings.py ; higher value means increased difficulty.
+ - piece colors can be changed by editing.
  ```
 _MY_COLOR = 'b'
 _O_COLOR = 'w'
